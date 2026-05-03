@@ -80,11 +80,17 @@ I have explored several AI-related projects, including:
 
 ---
 
-## 📊 Most Used Languages
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Charlie&layout=compact&theme=default" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=HELLSJ&show_icons=true&theme=transparent&hide_border=true" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HELLSJ&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true" />
+</a>
 
 </div>
 ---
