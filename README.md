@@ -28,21 +28,9 @@ Currently, I am preparing for further study in **AI** and trying to improve my e
 
 ## 🔬 Research & Projects
 
-### Retinal Vessel Segmentation
-
-I worked on retinal vessel segmentation using deep learning methods.  
-The project compared different U-Net series models and encoder backbones, including:
-
-- U-Net
-- UNet++
-- EfficientNetV2-B2
-- ResNet50
-
-This work helped me understand medical image segmentation, model comparison, external testing, and experimental analysis.
-
 ### AI-related Projects
 
-I have also explored several AI-related projects, including:
+I have explored several AI-related projects, including:
 
 - Medical image classification and representation learning
 - Chest X-ray retrieval with variational autoencoder methods
