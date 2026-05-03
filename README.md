@@ -80,8 +80,13 @@ I have explored several AI-related projects, including:
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HELLSJ)
+## 📊 Most Used Languages
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HELLSJ&layout=compact&theme=default" />
+
+</div>
 ---
 
 ## 📌 Current Focus
