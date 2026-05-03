@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Chengxuan Li 👋
+# Hi there, I'm Charlie👋
 
 ### Software Engineering Student | AI & Computer Vision Learner | NUS MComp AI Student
 
