@@ -84,7 +84,7 @@ I have explored several AI-related projects, including:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HELLSJ&layout=compact&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Charlie&layout=compact&theme=default" />
 
 </div>
 ---
