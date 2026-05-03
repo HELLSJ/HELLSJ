@@ -92,24 +92,6 @@ I am currently focusing on:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img 
-  height="170" 
-  src="https://github-readme-stats.vercel.app/api?username=HELLSJ&show_icons=true&theme=default&hide_border=true&count_private=true" 
-/>
-
-<img 
-  height="170" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HELLSJ&layout=compact&theme=default&hide_border=true" 
-/>
-
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
